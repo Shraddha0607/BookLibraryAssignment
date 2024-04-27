@@ -24,7 +24,7 @@ To run the application locally, follow these steps:
 
 ## How to Run the Application
 Once the application is running, you can access the endpoints using a tool like Postman. 
-You can also check from swagger by .hitting the link: http://localhost:8080/swagger-ui/index.html
+
 ## Sample Requests for Author Controller
 
 1) Add Author:
